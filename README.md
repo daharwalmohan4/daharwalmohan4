@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daharwalmohan4&label=Profile%20views&color=0e75b6&style=flat" alt="daharwalmohan4" /> </p>
 
-- 🔭 I’m currently working on **Foody-Zone**
-
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, JavaScript**
